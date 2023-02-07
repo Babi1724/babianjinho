@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 -->
 ### Conhecimentos:
 
-![PYHTON](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/python.svg/1200px-Python.svg.png)
+![PYHTON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=PYTHON&labelcolor=0D1117)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTMl5&labelcolor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelcolor=0D1117)
